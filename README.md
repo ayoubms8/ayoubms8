@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ayoub and I'm a computer science student, from morocco</p>
+<p align="left">My name is Ayoub and I'm a computer science student at 1337, from morocco</p>
 
 ###
 
