@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning React, Threejs, Nextjs and some other technologies, <br>🎯 Goals: becoming a full-fledged fullstack dev</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning React, Threejs, Django and some other technologies, <br>🎯 Goals: becoming a full-fledged fullstack dev</p>
 
 ###
 
