@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Creating bugs since 2020<br>📚 I'm currently learning React, Threejs, Django and other technologies,<br>🎯 Goals: becoming a full-fledged fullstack dev
+✨ Creating bugs since 2020<br>
 
 
 ## 🌐 Socials:
